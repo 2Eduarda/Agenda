@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignorar pasta do venv
+[Ss]treamlit/
+
 # C extensions
 *.so
 
